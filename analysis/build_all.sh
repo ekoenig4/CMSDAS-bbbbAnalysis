@@ -26,7 +26,7 @@
 
 TAG="analysisNtuples_final"
 # IN_FLDR="/store/user/lcadamur/bbbb_ntuples_CMSDAS"
-IN_FLDR="/store/user/cmsdas/2020/long_exercises/DoubleHiggs/${TAG}/dasformat"
+IN_FLDR="/store/user/cmsdas/2022/long_exercises/DoubleHiggs/${TAG}/dasformat"
 # TMP_FLDR=`pwd`
 DEST_FLDR=`pwd`
 

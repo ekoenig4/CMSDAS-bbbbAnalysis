@@ -34,7 +34,7 @@ source hadd_all_inputs.sh
 source prepare_all.sh
 ```
 
-As a result of the procedure above, you will find ntuples for the exercise under ``/store/user/cmsdas/2020/long_exercises/DoubleHiggs/${TAG}/dasformat``
+As a result of the procedure above, you will find ntuples for the exercise under ``/store/user/cmsdas/2022/long_exercises/DoubleHiggs/${TAG}/dasformat``
 
 ## Running the analysis (Your starting line)
 
