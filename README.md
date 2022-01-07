@@ -8,7 +8,7 @@ Refer to the TWiki for instructions on how to run the exercise.
 
 ## Installing the repo
 1. Install the bbbbAnalysis code following the instructions [here](https://github.com/UF-HH/bbbbAnalysis), using the ``CMSDAS-exercise`` branch
-2. ``git clone https://github.com/danielguerrero/CMSDAS-bbbbAnalysis``
+2. ``git clone https://github.com/fravera/CMSDAS-bbbbAnalysis``
 3. NOTE: the exercise works independently on SL6 and SL7. Installation instructions on the reference TWiki use the CMSSW version recommended for Run 2 data analysis (SL7), which is different from the one of the bbbbAnalysis above
 
 ## Preparing the input ntuples for the exercise (this is already done for you)
@@ -134,7 +134,7 @@ Here is the main exercise:
 
 1. Produce trigger efficiency plots
 
-    go to CMSDAS-bbbbAnalysis folder
+    go to CMSDAS-bbbbAnalysis folder (Already done for you, file in  trigger/TriggerEfficiencies.root already available in the repository)
 ```
     cd trigger
     root -l

@@ -114,8 +114,8 @@ std::pair<std::shared_ptr<TGraphAsymmErrors>, std::shared_ptr<TSpline>> TriggerE
 }
 
 void ProduceAllTriggerEfficiencies(
-    std::string singleMuonInputFileName = "/uscms/home/fravera/nobackup/DiHiggs_v2/CMSSW_10_2_5/src/bbbbAnalysis/SingleMuon_Data_forTrigger_2016.root", 
-    std::string ttbarInputFileName      = "/uscms/home/fravera/nobackup/DiHiggs_v2/CMSSW_10_2_5/src/bbbbAnalysis/TTbar_MC_forTrigger_2016.root", 
+    std::string singleMuonInputFileName = "/store/user/cmsdas/2022/long_exercises/DoubleHiggs/TriggerNtuples/SingleMuon_Data_forTrigger_2016.root", 
+    std::string ttbarInputFileName      = "/store/user/cmsdas/2022/long_exercises/DoubleHiggs/TriggerNtuples/TTbar_MC_forTrigger_2016.root", 
     std::string outputFileName          = "TriggerEfficiencies.root")
 {
     
